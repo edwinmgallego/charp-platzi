@@ -1,0 +1,2 @@
+# charp-platzi
+aprendiendo c#
